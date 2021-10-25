@@ -34,6 +34,7 @@ textarea, select {
 /* base styles */
 
 @import "./variables";
+@import "./mixins";
 @import "./common";
 @import "./header";
 @import "./main-block";
