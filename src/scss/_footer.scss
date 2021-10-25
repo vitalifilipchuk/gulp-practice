@@ -1,6 +1,6 @@
 .footer {
     padding: 3rem 0;
-    .footer__layout {
+    &__layout {
         @include verticalCenter;
         justify-content: space-between;
     }

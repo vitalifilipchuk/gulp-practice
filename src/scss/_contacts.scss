@@ -1,6 +1,6 @@
 .contacts-block {
     padding: 4rem 0;
-    .contacts-block__layout {
+    &__layout {
         @include verticalCenter;
         justify-content: space-between;
         .contacts__text,
